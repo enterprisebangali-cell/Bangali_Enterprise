@@ -1,0 +1,4 @@
+
+> bangali-enterprise@0.1.0 build
+> node tools/generate-llms.js || true && vite build
+
